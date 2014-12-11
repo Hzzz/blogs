@@ -1,0 +1,4 @@
+jsnotes
+=======
+
+notes of javascript
