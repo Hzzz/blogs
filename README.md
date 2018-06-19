@@ -1,6 +1,6 @@
-jsnotes
+blogs
 =======
 
-notes of coding
+blogs of coding
 
-all notes in project issues.
+all blogs in project issues.
